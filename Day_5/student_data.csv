@@ -1,0 +1,6 @@
+name,department,marks,passed,grades
+arnav,CSE,75,True,B
+adil,CSE,95,True,A
+advait,mech,85,True,A
+ram,mech,32,False,B
+sham,mech,34,False,B
